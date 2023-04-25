@@ -1,0 +1,10 @@
+label,legend{
+    font-size: larger;
+    font-weight: 600;
+    }
+
+    label.error{
+        color:red;
+        font-size: small;
+        font-weight: 500;
+    }
